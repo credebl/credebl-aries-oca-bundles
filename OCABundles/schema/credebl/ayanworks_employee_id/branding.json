@@ -3,7 +3,7 @@
     "logo": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/ayanworks_employee_id/ayanworks_logo.png",
     "background_image_slice": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/ayanworks_employee_id/background_slice.png",
     "background_image": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/ayanworks_employee_id/background_image.png",
-    "primary_background_color": "#7A4DE5",
+    "primary_background_color": "#001F3F",
     "secondary_background_color": "",
     "capture_base": "E75sopl65qnoZRwjQQ0FjWGemLlOXcXtanhScZ2CloJY",
     "digest": "EBQbQEV6qSEGDzGLj1CqT4e6yzESjPimF-Swmyltw5jU",
