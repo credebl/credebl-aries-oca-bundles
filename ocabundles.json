@@ -20,6 +20,9 @@
   "HunPZjBW3msPS2FUVF41mC:3:CL:666:Blockster Employment VC": {
     "path": "OCABundles/schema/credebl/blockster_labs_employee_id/OCABundle.json"
   },
+  "XTZyxWYvFXkhBfYhTas7yC:2:BTech Marksheet:0.0.1": {
+    "path": "OCABundles/schema/credebl/btech_grade_card/OCABundle.json"
+  },
   "GWsYMNu1gqw6KQxMyJbFuh:2:Delegate:1.0": {
     "path": "OCABundles/schema/credebl/id4africa-delegate/OCABundle.json"
   },

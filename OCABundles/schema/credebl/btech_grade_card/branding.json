@@ -1,0 +1,15 @@
+[
+  {
+    "logo": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/btech_grade_card/logo.png",
+    "background_image_slice": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/btech_grade_card/background_slice.jpg",
+    "background_image": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/btech_grade_card/background_image.jpg",
+    "primary_background_color": "#32674E",
+    "secondary_background_color": "",
+    "capture_base": "E2A0gynB5xfvhAEfOLXdn28W_Uso3u_2gu55qIf7O_0c",
+    "digest": "EumXvijNoMBB0eF6GpRuwNtbB5xhLHcaotlyrwflaJpE",
+    "expiry_date_attribute": "",
+    "primary_attribute": "",
+    "secondary_attribute": "",
+    "type": "aries/overlays/branding/1.0"
+  }
+]

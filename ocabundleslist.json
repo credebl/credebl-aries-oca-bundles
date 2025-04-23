@@ -1,86 +1,18 @@
 [
-  {
-    "org": "World Memory Championship",
-    "name": "Arbiter Credential",
-    "desc": "A schema for a arbiter credential used for arbiter of the World Memory Championship",
-    "type": "schema",
-    "ocabundle": "OCABundles/schema/credebl/arbiter_new/OCABundle.json"
-  },
-  {
-    "org": "AyanWorks Technology Solutions",
-    "name": "Ayanworks Employee Id Credential",
-    "desc": "A schema for a Ayanworks Employee Id credential used for the employees of the organization",
-    "type": "schema",
-    "ocabundle": "OCABundles/schema/credebl/ayanworks_employee_id/OCABundle.json"
-  },
-  {
-    "org": "Blockster Labs",
-    "name": "Blockster Labs Employee Id Credential",
-    "desc": "A schema for a Blockster Labs Employee Id credential used for the employees of the organization",
-    "type": "schema",
-    "ocabundle": "OCABundles/schema/credebl/blockster_labs_employee_id/OCABundle.json"
-  },
-  {
-    "org": "ID4Africa",
-    "name": "ID4Africa Delegate Credential",
-    "desc": "A schema for a ID4Africa Id credential",
-    "type": "schema",
-    "ocabundle": "OCABundles/schema/credebl/id4africa-delegate/OCABundle.json"
-  },
-  {
-    "org": "ID4Africa",
-    "name": "ID4Africa Speaker Credential",
-    "desc": "A schema for a ID4Africa Id credential",
-    "type": "schema",
-    "ocabundle": "OCABundles/schema/credebl/id4africa-speaker/OCABundle.json"
-  },
-  {
-    "org": "University Grade Card",
-    "name": "University Grade Card",
-    "desc": "A schema for a University Grade Card",
-    "type": "schema",
-    "ocabundle": "OCABundles/schema/credebl/mTech_grade_card/OCABundle.json"
-  },
-  {
-    "org": "University Grade Card",
-    "name": "University Grade Card",
-    "desc": "A schema for a University Grade Card",
-    "type": "schema",
-    "ocabundle": "OCABundles/schema/credebl/mTech_grade_card_1/OCABundle.json"
-  },
-  {
-    "org": "World Memory Championship",
-    "name": "Participant Credential",
-    "desc": "A schema for a participant credential used for partipant of the World Memory Championship",
-    "type": "schema",
-    "ocabundle": "OCABundles/schema/credebl/participant_new/OCABundle.json"
-  },
-  {
-    "org": "University",
-    "name": "Post Graduate Diploma",
-    "desc": "A schema for a Post Graduate Diploma",
-    "type": "schema",
-    "ocabundle": "OCABundles/schema/credebl/post_graduate_diploma/OCABundle.json"
-  },
-  {
-    "org": "World Memory Championship",
-    "name": "Winner Credential",
-    "desc": "A schema for a winner credential used for the World Memory Championship",
-    "type": "schema",
-    "ocabundle": "OCABundles/schema/credebl/winner_new/OCABundle.json"
-  },
-  {
-    "org": "World Memory Championship",
-    "name": "WMC Final Score Credential",
-    "desc": "A schema for a WMC participant final score credential of the World Memory Championship",
-    "type": "schema",
-    "ocabundle": "OCABundles/schema/credebl/wmc_final_score/OCABundle.json"
-  },
-  {
-    "org": "World Memory Championship",
-    "name": "World Record Credential",
-    "desc": "A schema for a world record credential used for the World Memory Championship",
-    "type": "schema",
-    "ocabundle": "OCABundles/schema/credebl/world_record/OCABundle.json"
-  }
+{ "org": "World Memory Championship", "name": "Arbiter Credential", "desc": "A schema for a arbiter credential used for arbiter of the World Memory Championship", "type": "schema", "ocabundle": "OCABundles/schema/credebl/arbiter_new/OCABundle.json" },
+{ "org": "AyanWorks Technology Solutions", "name": "Pinnacle Performer Credential", "desc": "A schema for a Pinnacle Performer credential used for the employees of the organization", "type": "schema", "ocabundle": "OCABundles/schema/credebl/ayanworks_appreciation_certificate/OCABundle.json" },
+{ "org": "AyanWorks Technology Solutions", "name": "Ayanworks Employee Id Credential", "desc": "A schema for a Ayanworks Employee Id credential used for the employees of the organization", "type": "schema", "ocabundle": "OCABundles/schema/credebl/ayanworks_employee_id/OCABundle.json" },
+{ "org": "AyanWorks Technology Solutions", "name": "Appreciation Certificate Credential", "desc": "A schema for a Appreciation Certificate credential used for the employees of the organization", "type": "schema", "ocabundle": "OCABundles/schema/credebl/ayanworks_pinnacle_certificate/OCABundle.json" },
+{ "org": "AyanWorks Technology Solutions", "name": "Ayanworks Visitor Id Credential", "desc": "A schema for a Ayanworks Visitor Id credential used for the visitors of the organization", "type": "schema", "ocabundle": "OCABundles/schema/credebl/ayanworks_visitor_id/OCABundle.json" },
+{ "org": "Blockster Labs", "name": "Blockster Labs Employee Id Credential", "desc": "A schema for a Blockster Labs Employee Id credential used for the employees of the organization", "type": "schema", "ocabundle": "OCABundles/schema/credebl/blockster_labs_employee_id/OCABundle.json" },
+{ "org": "University Grade Card", "name": "University Grade Card", "desc": "A schema for a University Grade Card", "type": "schema", "ocabundle": "OCABundles/schema/credebl/btech_grade_card/OCABundle.json" },
+{ "org": "ID4Africa", "name": "ID4Africa Delegate Credential", "desc": "A schema for a ID4Africa Id credential", "type": "schema", "ocabundle": "OCABundles/schema/credebl/id4africa-delegate/OCABundle.json" },
+{ "org": "ID4Africa", "name": "ID4Africa Speaker Credential", "desc": "A schema for a ID4Africa Id credential", "type": "schema", "ocabundle": "OCABundles/schema/credebl/id4africa-speaker/OCABundle.json" },
+{ "org": "University Grade Card", "name": "University Grade Card", "desc": "A schema for a University Grade Card", "type": "schema", "ocabundle": "OCABundles/schema/credebl/mTech_grade_card/OCABundle.json" },
+{ "org": "University Grade Card", "name": "University Grade Card", "desc": "A schema for a University Grade Card", "type": "schema", "ocabundle": "OCABundles/schema/credebl/mTech_grade_card_1/OCABundle.json" },
+{ "org": "World Memory Championship", "name": "Participant Credential", "desc": "A schema for a participant credential used for partipant of the World Memory Championship", "type": "schema", "ocabundle": "OCABundles/schema/credebl/participant_new/OCABundle.json" },
+{ "org": "University", "name": "Post Graduate Diploma", "desc": "A schema for a Post Graduate Diploma", "type": "schema", "ocabundle": "OCABundles/schema/credebl/post_graduate_diploma/OCABundle.json" },
+{ "org": "World Memory Championship", "name": "Winner Credential", "desc": "A schema for a winner credential used for the World Memory Championship", "type": "schema", "ocabundle": "OCABundles/schema/credebl/winner_new/OCABundle.json" },
+{ "org": "World Memory Championship", "name": "WMC Final Score Credential", "desc": "A schema for a WMC participant final score credential of the World Memory Championship", "type": "schema", "ocabundle": "OCABundles/schema/credebl/wmc_final_score/OCABundle.json" },
+{ "org": "World Memory Championship", "name": "World Record Credential", "desc": "A schema for a world record credential used for the World Memory Championship", "type": "schema", "ocabundle": "OCABundles/schema/credebl/world_record/OCABundle.json" }
 ]
